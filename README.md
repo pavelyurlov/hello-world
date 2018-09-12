@@ -1,3 +1,3 @@
 # hello-world
 
-Salvete, amici.
+Salvēte, omnēs.
